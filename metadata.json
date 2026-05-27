@@ -1,0 +1,6 @@
+{
+  "name": "Afia AI",
+  "description": "Futuristic Cyberpunk AMOLED personal voice AI assistant with real-time phone controls, custom triggers, and AI workspace.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
